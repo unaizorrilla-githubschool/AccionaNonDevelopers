@@ -4,6 +4,7 @@ on: [create, workflow_dispatch]
 
 jobs:
   initialize_repo:
+    permissions: write-all
     runs-on: ubuntu-latest
     if: ${{ github.ref == 'refs/heads/main' }}
     steps:
