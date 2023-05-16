@@ -16,7 +16,7 @@ This is a image
 ![](https://www.nationalgeographic.com.es/medio/2022/12/12/caballo-1_c26bdfb7_221212154643_1280x720.jpg)
 
 
-Please check the note[^1] for a reference
+Please check the note[^1] for a reference, please press <kbd>CTRL</kbd> for more options
 
 
 [^1]: this is the reference
