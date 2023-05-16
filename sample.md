@@ -8,7 +8,7 @@ https://github.com
 
 this is a referernce to [Getting Started](#Getting-Started)
 
-this is the [code](https://github.com/unaizorrilla-githubschool/AccionaNonDevelopers/blob/main/README.md)
+this is the [code][https://github.com/unaizorrilla-githubschool/AccionaNonDevelopers/blob/main/README.md](https://github.com/unaizorrilla-githubschool/AccionaNonDevelopers/blob/main/README.md#-prerequisites)
 
 This is a image
 
