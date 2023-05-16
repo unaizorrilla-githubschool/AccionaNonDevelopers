@@ -2,6 +2,7 @@
 
 ## New subtitle
 
+Please check the documentation issues for more information: https://github.com/unaizorrilla-githubschool/AccionaNonDevelopers/labels/documentation
 https://github.com
 
 [text](https://github.com)
