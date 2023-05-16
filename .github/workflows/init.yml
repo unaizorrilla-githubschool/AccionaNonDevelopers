@@ -5,7 +5,7 @@ on: [create, workflow_dispatch]
 jobs:
   initialize_repo:
     permissions: write-all
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-lates
     if: ${{ github.ref == 'refs/heads/main' }}
     steps:
       - name: Checkout
