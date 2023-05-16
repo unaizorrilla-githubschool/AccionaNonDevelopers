@@ -20,3 +20,12 @@ Please check the note[^1] for a reference, please press <kbd>CTRL</kbd> for more
 
 
 [^1]: this is the reference
+
+```mermaid
+flowchart TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+```
