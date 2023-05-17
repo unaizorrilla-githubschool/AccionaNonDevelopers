@@ -5,5 +5,5 @@ title: "Welcome to our slide deck!"
 
 Greetings from [username]!
 
-![dinotocat](https://octodex.github.com/privateinvestocat/)
+![dinotocat](https://octodex.github.com/images/luchadortocat.png)
 {: .center}
