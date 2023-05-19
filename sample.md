@@ -1,6 +1,6 @@
 # Getting Started
 
-## New subtitle
+## New subtitle2
 
 Please check the documentation issues for more information: https://github.com/unaizorrilla-githubschool/AccionaNonDevelopers/labels/documentation
 https://github.com
